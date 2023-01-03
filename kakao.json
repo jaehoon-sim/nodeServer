@@ -1,0 +1,1701 @@
+[
+	{
+		"props": {
+			"pageProps": {
+				"layoutId": "static-landing-layout-Ranking-Landing",
+				"categoryName": "웹소설",
+				"subcategoryName": "전체",
+				"rankingTypeName": "일간",
+				"initialState": {
+					"json": {
+						"menu": {
+							"entities": {
+								"subtabMenuMap": {},
+								"subtabMap": {}
+							},
+							"relations": {
+								"subtabMenuMap": {},
+								"subtabMap": {}
+							},
+							"isMobileGnbExposed": false,
+							"isPcHeaderExposed": false
+						},
+						"notice": {
+							"noticeData": null,
+							"noticeId": null,
+							"noticePage": null
+						},
+						"help": {
+							"helpData": [],
+							"helpId": "",
+							"helpPage": 1,
+							"totalCount": 0
+						},
+						"pagewebLayout": {
+							"entities": {
+								"layouts": {
+									"static-landing-layout-Ranking-Landing": {
+										"id": "static-landing-layout-Ranking-Landing",
+										"type": "Landing",
+										"ageGrade": null
+									}
+								},
+								"sections": {
+									"static-landing-Ranking-section-Landing-11-0-daily": {
+										"id": "static-landing-Ranking-section-Landing-11-0-daily",
+										"type": "LandingRanking",
+										"isEnd": false,
+										"rankingTime": "2023.01.03 기준",
+										"totalCount": 25,
+										"param": {
+											"categoryUid": 11,
+											"subcategory": {
+												"name": "전체",
+												"param": "0"
+											},
+											"rankingType": {
+												"name": "일간",
+												"param": "daily"
+											},
+											"page": 0
+										},
+										"categoryTabList": [
+											{
+												"name": "전체",
+												"param": "0"
+											},
+											{
+												"name": "웹툰",
+												"param": "10"
+											},
+											{
+												"name": "웹소설",
+												"param": "11"
+											},
+											{
+												"name": "채팅소설",
+												"param": "1000"
+											},
+											{
+												"name": "책",
+												"param": "16"
+											}
+										],
+										"subcategoryList": [
+											{
+												"name": "전체",
+												"param": "0"
+											},
+											{
+												"name": "판타지",
+												"param": "86"
+											},
+											{
+												"name": "현판",
+												"param": "120"
+											},
+											{
+												"name": "로맨스",
+												"param": "89"
+											},
+											{
+												"name": "로판",
+												"param": "117"
+											},
+											{
+												"name": "무협",
+												"param": "87"
+											}
+										],
+										"rankingTypeList": [
+											{
+												"name": "실시간",
+												"param": "hourly"
+											},
+											{
+												"name": "일간",
+												"param": "daily"
+											},
+											{
+												"name": "주간",
+												"param": "weekly"
+											},
+											{
+												"name": "월간",
+												"param": "monthly"
+											}
+										],
+										"displayAd": {
+											"sectionUid": "A13",
+											"bannerUid": "A13",
+											"treviUid": "",
+											"momentUid": "DAN-kUTB5NrFaPR9bAKq"
+										}
+									}
+								},
+								"groups": {
+									"static-landing-Ranking-group-11-0-daily": {
+										"id": "static-landing-Ranking-group-11-0-daily",
+										"type": "ListView"
+									}
+								},
+								"items": {
+									"NormalList-RankingItemSeriesDto-60847886-0": {
+										"id": "NormalList-RankingItemSeriesDto-60847886-0",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cGhyl/hyZIaBfcUV/ZF6s896a9KYphiW1Hhy0Wk&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "회귀검가의 서자가 사는 법",
+										"row2": [
+											"판타지",
+											"362.7만",
+											"빵먹는다람쥐"
+										],
+										"scheme": "kakaopage://open/content?series_id=60847886",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "1",
+										"eventLog": {
+											"click": {
+												"ordnum": "1"
+											},
+											"eventMeta": {
+												"id": "60847886",
+												"name": "회귀검가의 서자가 사는 법",
+												"subcategory": "판타지",
+												"category": "웹소설",
+												"series": "회귀검가의 서자가 사는 법",
+												"provider": "서비스",
+												"series_id": "60847886",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-60947960-1": {
+										"id": "NormalList-RankingItemSeriesDto-60947960-1",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=yYnMQ/hyRyNUVN8l/HPpK7TeBqHlc855gIHdkKk&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeNewStatic",
+										"ageGrade": "All",
+										"row1": "수인 아카데미",
+										"row2": [
+											"로판",
+											"221.3만",
+											"야식먹는중"
+										],
+										"scheme": "kakaopage://open/content?series_id=60947960",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "2",
+										"eventLog": {
+											"click": {
+												"ordnum": "2"
+											},
+											"eventMeta": {
+												"id": "60947960",
+												"name": "수인 아카데미",
+												"subcategory": "로판",
+												"category": "웹소설",
+												"series": "수인 아카데미",
+												"provider": "서비스",
+												"series_id": "60947960",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-48526879-2": {
+										"id": "NormalList-RankingItemSeriesDto-48526879-2",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=wvDYW/hzacbXkEXM/ucMVEKZlWYw9N9POF40t50&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "시그리드",
+										"row2": [
+											"로판",
+											"5,639.3만",
+											"시야"
+										],
+										"scheme": "kakaopage://open/content?series_id=48526879",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "3",
+										"eventLog": {
+											"click": {
+												"ordnum": "3"
+											},
+											"eventMeta": {
+												"id": "48526879",
+												"name": "시그리드",
+												"subcategory": "로판",
+												"category": "웹소설",
+												"series": "시그리드",
+												"provider": "서비스",
+												"series_id": "48526879",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-56325530-3": {
+										"id": "NormalList-RankingItemSeriesDto-56325530-3",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=dp1sx4/hzwBmh2mXC/BGkbvFAig6YCKIafEAONPK&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "데뷔 못 하면 죽는 병 걸림",
+										"row2": [
+											"현판",
+											"3.7억",
+											"백덕수"
+										],
+										"scheme": "kakaopage://open/content?series_id=56325530",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "4",
+										"eventLog": {
+											"click": {
+												"ordnum": "4"
+											},
+											"eventMeta": {
+												"id": "56325530",
+												"name": "데뷔 못 하면 죽는 병 걸림",
+												"subcategory": "현판",
+												"category": "웹소설",
+												"series": "데뷔 못 하면 죽는 병 걸림",
+												"provider": "서비스",
+												"series_id": "56325530",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-57948732-4": {
+										"id": "NormalList-RankingItemSeriesDto-57948732-4",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=mrG85/hyvQNuVLzB/udKt1KxLxHPWxCwoxEpE9K&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "환생한 암살자는 검술 천재",
+										"row2": [
+											"판타지",
+											"1.2억",
+											"글개미"
+										],
+										"scheme": "kakaopage://open/content?series_id=57948732",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "5",
+										"eventLog": {
+											"click": {
+												"ordnum": "5"
+											},
+											"eventMeta": {
+												"id": "57948732",
+												"name": "환생한 암살자는 검술 천재",
+												"subcategory": "판타지",
+												"category": "웹소설",
+												"series": "환생한 암살자는 검술 천재",
+												"provider": "서비스",
+												"series_id": "57948732",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-48306624-5": {
+										"id": "NormalList-RankingItemSeriesDto-48306624-5",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=tlO66/hyksPcZ8oQ/vELyk2kjdqEqwJfYvv1az1&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "무한의 마법사",
+										"row2": [
+											"판타지",
+											"2.4억",
+											"김치우"
+										],
+										"scheme": "kakaopage://open/content?series_id=48306624",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "6",
+										"eventLog": {
+											"click": {
+												"ordnum": "6"
+											},
+											"eventMeta": {
+												"id": "48306624",
+												"name": "무한의 마법사",
+												"subcategory": "판타지",
+												"category": "웹소설",
+												"series": "무한의 마법사",
+												"provider": "서비스",
+												"series_id": "48306624",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-60707400-6": {
+										"id": "NormalList-RankingItemSeriesDto-60707400-6",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=bDxLLh/hzKkUtfijr/FkvNxrwO9DNGDK2wdOx2S1&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "괴존강림",
+										"row2": [
+											"무협",
+											"279.2만",
+											"해경"
+										],
+										"scheme": "kakaopage://open/content?series_id=60707400",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "7",
+										"eventLog": {
+											"click": {
+												"ordnum": "7"
+											},
+											"eventMeta": {
+												"id": "60707400",
+												"name": "괴존강림",
+												"subcategory": "무협",
+												"category": "웹소설",
+												"series": "괴존강림",
+												"provider": "서비스",
+												"series_id": "60707400",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-60944158-7": {
+										"id": "NormalList-RankingItemSeriesDto-60944158-7",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=wYOFD/hzMT7Dfr4L/2fGTkEv5o0QH8eOLEL4TJk&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"ageGradeBadge": "BadgeAge15Static",
+										"statusBadge": "BadgeNewStatic",
+										"ageGrade": "Fifteen",
+										"row1": "윈터 심포니",
+										"row2": [
+											"로맨스",
+											"86.5만",
+											"최수현"
+										],
+										"scheme": "kakaopage://open/content?series_id=60944158",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "8",
+										"eventLog": {
+											"click": {
+												"ordnum": "8"
+											},
+											"eventMeta": {
+												"id": "60944158",
+												"name": "윈터 심포니",
+												"subcategory": "로맨스",
+												"category": "웹소설",
+												"series": "윈터 심포니",
+												"provider": "서비스",
+												"series_id": "60944158",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-47050646-8": {
+										"id": "NormalList-RankingItemSeriesDto-47050646-8",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cyxp1/hyCRapYa7B/WZs4qNaQ6d7LEbnjwuSoeK&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "템빨",
+										"row2": [
+											"판타지",
+											"10.8억",
+											"박새날"
+										],
+										"scheme": "kakaopage://open/content?series_id=47050646",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "9",
+										"eventLog": {
+											"click": {
+												"ordnum": "9"
+											},
+											"eventMeta": {
+												"id": "47050646",
+												"name": "템빨",
+												"subcategory": "판타지",
+												"category": "웹소설",
+												"series": "템빨",
+												"provider": "서비스",
+												"series_id": "47050646",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-56598258-9": {
+										"id": "NormalList-RankingItemSeriesDto-56598258-9",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cQoxru/hzwBj7he4q/3GLoLoHasYc3z9ENSKdgxK&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "흑백무제",
+										"row2": [
+											"무협",
+											"1.3억",
+											"현임"
+										],
+										"scheme": "kakaopage://open/content?series_id=56598258",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "10",
+										"eventLog": {
+											"click": {
+												"ordnum": "10"
+											},
+											"eventMeta": {
+												"id": "56598258",
+												"name": "흑백무제",
+												"subcategory": "무협",
+												"category": "웹소설",
+												"series": "흑백무제",
+												"provider": "서비스",
+												"series_id": "56598258",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-59958719-10": {
+										"id": "NormalList-RankingItemSeriesDto-59958719-10",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=clDu9L/hynaENo7zU/QeRRwIJuQewL5y8dmsG861&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeNewStatic",
+										"ageGrade": "All",
+										"row1": "1만 년 동안 살아온 배우님",
+										"row2": [
+											"현판",
+											"209.1만",
+											"왕십리글쟁이,봉공(鳳公)"
+										],
+										"scheme": "kakaopage://open/content?series_id=59958719",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "11",
+										"eventLog": {
+											"click": {
+												"ordnum": "11"
+											},
+											"eventMeta": {
+												"id": "59958719",
+												"name": "1만 년 동안 살아온 배우님",
+												"subcategory": "현판",
+												"category": "웹소설",
+												"series": "1만 년 동안 살아온 배우님",
+												"provider": "서비스",
+												"series_id": "59958719",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-57668776-11": {
+										"id": "NormalList-RankingItemSeriesDto-57668776-11",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=ceVevV/hzhOldna57/DXofk6H4maf7o7TbefsDIk&filename=th3",
+										"badgeList": [
+											"BadgeWaitFreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "마법학교 마법사로 살아가는 법",
+										"row2": [
+											"판타지",
+											"7,245만",
+											"글쓰는기계"
+										],
+										"scheme": "kakaopage://open/content?series_id=57668776",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "12",
+										"eventLog": {
+											"click": {
+												"ordnum": "12"
+											},
+											"eventMeta": {
+												"id": "57668776",
+												"name": "마법학교 마법사로 살아가는 법",
+												"subcategory": "판타지",
+												"category": "웹소설",
+												"series": "마법학교 마법사로 살아가는 법",
+												"provider": "서비스",
+												"series_id": "57668776",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-57850880-12": {
+										"id": "NormalList-RankingItemSeriesDto-57850880-12",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=b5eP1E/hzCtgXLlo2/KMSOpfnklqQIYktnnXVux1&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"ageGrade": "All",
+										"row1": "이 3세는 악역입니다",
+										"row2": [
+											"로판",
+											"1억",
+											"리샤"
+										],
+										"scheme": "kakaopage://open/content?series_id=57850880",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "13",
+										"eventLog": {
+											"click": {
+												"ordnum": "13"
+											},
+											"eventMeta": {
+												"id": "57850880",
+												"name": "이 3세는 악역입니다",
+												"subcategory": "로판",
+												"category": "웹소설",
+												"series": "이 3세는 악역입니다",
+												"provider": "서비스",
+												"series_id": "57850880",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-54418049-13": {
+										"id": "NormalList-RankingItemSeriesDto-54418049-13",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=NVhBH/hzp2dzaqo6/d8NLN4zfVlnuzDlKecXLFK&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "1년차 만렙 매니저",
+										"row2": [
+											"현판",
+											"1.4억",
+											"현신"
+										],
+										"scheme": "kakaopage://open/content?series_id=54418049",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "14",
+										"eventLog": {
+											"click": {
+												"ordnum": "14"
+											},
+											"eventMeta": {
+												"id": "54418049",
+												"name": "1년차 만렙 매니저",
+												"subcategory": "현판",
+												"category": "웹소설",
+												"series": "1년차 만렙 매니저",
+												"provider": "서비스",
+												"series_id": "54418049",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-51513025-14": {
+										"id": "NormalList-RankingItemSeriesDto-51513025-14",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=bJvZCK/hyqFdloLXQ/Cux7NbBvYMpQP7dWzkbOh0&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "구천구검",
+										"row2": [
+											"무협",
+											"3.2억",
+											"조진행"
+										],
+										"scheme": "kakaopage://open/content?series_id=51513025",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "15",
+										"eventLog": {
+											"click": {
+												"ordnum": "15"
+											},
+											"eventMeta": {
+												"id": "51513025",
+												"name": "구천구검",
+												"subcategory": "무협",
+												"category": "웹소설",
+												"series": "구천구검",
+												"provider": "서비스",
+												"series_id": "51513025",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-53230180-15": {
+										"id": "NormalList-RankingItemSeriesDto-53230180-15",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cVx5Xj/hyuPHa1b1H/Z4ShPFWFPAap0nDkWYbKjk&filename=th3",
+										"badgeList": [
+											"BadgeWaitFreeStatic"
+										],
+										"ageGrade": "All",
+										"row1": "재벌집 막내아들",
+										"row2": [
+											"현판",
+											"4,610.9만",
+											"산경"
+										],
+										"scheme": "kakaopage://open/content?series_id=53230180",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "16",
+										"eventLog": {
+											"click": {
+												"ordnum": "16"
+											},
+											"eventMeta": {
+												"id": "53230180",
+												"name": "재벌집 막내아들",
+												"subcategory": "현판",
+												"category": "웹소설",
+												"series": "재벌집 막내아들",
+												"provider": "서비스",
+												"series_id": "53230180",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-57508924-16": {
+										"id": "NormalList-RankingItemSeriesDto-57508924-16",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=mipuG/hzacc9m264/NO9RytS91urRxliDUbSeHK&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "엄마가 계약결혼 했다",
+										"row2": [
+											"로판",
+											"1,865.2만",
+											"시야"
+										],
+										"scheme": "kakaopage://open/content?series_id=57508924",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "17",
+										"eventLog": {
+											"click": {
+												"ordnum": "17"
+											},
+											"eventMeta": {
+												"id": "57508924",
+												"name": "엄마가 계약결혼 했다",
+												"subcategory": "로판",
+												"category": "웹소설",
+												"series": "엄마가 계약결혼 했다",
+												"provider": "서비스",
+												"series_id": "57508924",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-55806263-17": {
+										"id": "NormalList-RankingItemSeriesDto-55806263-17",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=xJIsS/hzab4jX5tw/gqDfDj9gSTEG05CngCjkaK&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "의원, 다시 살다",
+										"row2": [
+											"무협",
+											"1.4억",
+											"태선"
+										],
+										"scheme": "kakaopage://open/content?series_id=55806263",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "18",
+										"eventLog": {
+											"click": {
+												"ordnum": "18"
+											},
+											"eventMeta": {
+												"id": "55806263",
+												"name": "의원, 다시 살다",
+												"subcategory": "무협",
+												"category": "웹소설",
+												"series": "의원, 다시 살다",
+												"provider": "서비스",
+												"series_id": "55806263",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-57352245-18": {
+										"id": "NormalList-RankingItemSeriesDto-57352245-18",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cN4hRc/hyzTZx757q/0ye0fKA5ShWw6hXNdFWRf1&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "2레벨로 회귀한 무신",
+										"row2": [
+											"판타지",
+											"8,547.4만",
+											"염비"
+										],
+										"scheme": "kakaopage://open/content?series_id=57352245",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "19",
+										"eventLog": {
+											"click": {
+												"ordnum": "19"
+											},
+											"eventMeta": {
+												"id": "57352245",
+												"name": "2레벨로 회귀한 무신",
+												"subcategory": "판타지",
+												"category": "웹소설",
+												"series": "2레벨로 회귀한 무신",
+												"provider": "서비스",
+												"series_id": "57352245",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-50490834-19": {
+										"id": "NormalList-RankingItemSeriesDto-50490834-19",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=dpkwm2/hymrgy13pd/DWuxuNnQWL97IKRtGaDg21&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "픽 미 업!",
+										"row2": [
+											"판타지",
+											"2,455.3만",
+											"헤르모드"
+										],
+										"scheme": "kakaopage://open/content?series_id=50490834",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "20",
+										"eventLog": {
+											"click": {
+												"ordnum": "20"
+											},
+											"eventMeta": {
+												"id": "50490834",
+												"name": "픽 미 업!",
+												"subcategory": "판타지",
+												"category": "웹소설",
+												"series": "픽 미 업!",
+												"provider": "서비스",
+												"series_id": "50490834",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-56505778-20": {
+										"id": "NormalList-RankingItemSeriesDto-56505778-20",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=zviN6/hyCQ9Ljojg/7VVW4sLzkGuJwG4LNLPcc1&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeUpStatic",
+										"ageGrade": "All",
+										"row1": "천재 궁수의 스트리밍",
+										"row2": [
+											"판타지",
+											"1.1억",
+											"멍멍킴"
+										],
+										"scheme": "kakaopage://open/content?series_id=56505778",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "21",
+										"eventLog": {
+											"click": {
+												"ordnum": "21"
+											},
+											"eventMeta": {
+												"id": "56505778",
+												"name": "천재 궁수의 스트리밍",
+												"subcategory": "판타지",
+												"category": "웹소설",
+												"series": "천재 궁수의 스트리밍",
+												"provider": "서비스",
+												"series_id": "56505778",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-52347864-21": {
+										"id": "NormalList-RankingItemSeriesDto-52347864-21",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=clhsNt/hzb7wS86iU/youcLvg4JQS9ylFzZJZCiK&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"ageGrade": "All",
+										"row1": "검술명가 막내아들",
+										"row2": [
+											"판타지",
+											"3.7억",
+											"황제펭귄"
+										],
+										"scheme": "kakaopage://open/content?series_id=52347864",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "22",
+										"eventLog": {
+											"click": {
+												"ordnum": "22"
+											},
+											"eventMeta": {
+												"id": "52347864",
+												"name": "검술명가 막내아들",
+												"subcategory": "판타지",
+												"category": "웹소설",
+												"series": "검술명가 막내아들",
+												"provider": "서비스",
+												"series_id": "52347864",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-60943116-22": {
+										"id": "NormalList-RankingItemSeriesDto-60943116-22",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=DA3Y9/hzN2lGEA9f/hkxmnSMBxxJNmgGsolFlC0&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeNewStatic",
+										"ageGrade": "All",
+										"row1": "흑막 아빠를 프로듀스",
+										"row2": [
+											"로판",
+											"12.2만",
+											"이우희"
+										],
+										"scheme": "kakaopage://open/content?series_id=60943116",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "23",
+										"eventLog": {
+											"click": {
+												"ordnum": "23"
+											},
+											"eventMeta": {
+												"id": "60943116",
+												"name": "흑막 아빠를 프로듀스",
+												"subcategory": "로판",
+												"category": "웹소설",
+												"series": "흑막 아빠를 프로듀스",
+												"provider": "서비스",
+												"series_id": "60943116",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-60927281-23": {
+										"id": "NormalList-RankingItemSeriesDto-60927281-23",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=bdL81J/hzMT3OlbCO/appeEMeJxpwZsj1Xf32ci0&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"statusBadge": "BadgeNewStatic",
+										"ageGrade": "All",
+										"row1": "피폐물 남주의 부관은 피곤합니다",
+										"row2": [
+											"로판",
+											"65.8만",
+											"채나혜"
+										],
+										"scheme": "kakaopage://open/content?series_id=60927281",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "24",
+										"eventLog": {
+											"click": {
+												"ordnum": "24"
+											},
+											"eventMeta": {
+												"id": "60927281",
+												"name": "피폐물 남주의 부관은 피곤합니다",
+												"subcategory": "로판",
+												"category": "웹소설",
+												"series": "피폐물 남주의 부관은 피곤합니다",
+												"provider": "서비스",
+												"series_id": "60927281",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									},
+									"NormalList-RankingItemSeriesDto-60943117-24": {
+										"id": "NormalList-RankingItemSeriesDto-60943117-24",
+										"type": "NormalListView",
+										"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=b34k1R/hzR1SUPRvh/UWJty7q31eOSwurLVJtm8K&filename=th3",
+										"badgeList": [
+											"Badge3HoursWaitfreeStatic"
+										],
+										"ageGradeBadge": "BadgeAge15Static",
+										"statusBadge": "BadgeNewStatic",
+										"ageGrade": "Fifteen",
+										"row1": "첫사랑과 임신을",
+										"row2": [
+											"로맨스",
+											"63.8만",
+											"계바비"
+										],
+										"scheme": "kakaopage://open/content?series_id=60943117",
+										"isCheckMode": false,
+										"isChecked": false,
+										"showPlayerIcon": false,
+										"rank": "25",
+										"eventLog": {
+											"click": {
+												"ordnum": "25"
+											},
+											"eventMeta": {
+												"id": "60943117",
+												"name": "첫사랑과 임신을",
+												"subcategory": "로맨스",
+												"category": "웹소설",
+												"series": "첫사랑과 임신을",
+												"provider": "서비스",
+												"series_id": "60943117",
+												"type": "seriesId"
+											},
+											"customProps": {
+												"landing_path": "contents",
+												"view_type": "series_list_view"
+											}
+										}
+									}
+								}
+							},
+							"fetchStatus": {
+								"static-landing-layout-Ranking-Landing": "success",
+								"static-landing-Ranking-section-Landing-11-0-daily": "success",
+								"static-landing-Ranking-group-11-0-daily": "success",
+								"NormalList-RankingItemSeriesDto-60847886-0": "success",
+								"NormalList-RankingItemSeriesDto-60947960-1": "success",
+								"NormalList-RankingItemSeriesDto-48526879-2": "success",
+								"NormalList-RankingItemSeriesDto-56325530-3": "success",
+								"NormalList-RankingItemSeriesDto-57948732-4": "success",
+								"NormalList-RankingItemSeriesDto-48306624-5": "success",
+								"NormalList-RankingItemSeriesDto-60707400-6": "success",
+								"NormalList-RankingItemSeriesDto-60944158-7": "success",
+								"NormalList-RankingItemSeriesDto-47050646-8": "success",
+								"NormalList-RankingItemSeriesDto-56598258-9": "success",
+								"NormalList-RankingItemSeriesDto-59958719-10": "success",
+								"NormalList-RankingItemSeriesDto-57668776-11": "success",
+								"NormalList-RankingItemSeriesDto-57850880-12": "success",
+								"NormalList-RankingItemSeriesDto-54418049-13": "success",
+								"NormalList-RankingItemSeriesDto-51513025-14": "success",
+								"NormalList-RankingItemSeriesDto-53230180-15": "success",
+								"NormalList-RankingItemSeriesDto-57508924-16": "success",
+								"NormalList-RankingItemSeriesDto-55806263-17": "success",
+								"NormalList-RankingItemSeriesDto-57352245-18": "success",
+								"NormalList-RankingItemSeriesDto-50490834-19": "success",
+								"NormalList-RankingItemSeriesDto-56505778-20": "success",
+								"NormalList-RankingItemSeriesDto-52347864-21": "success",
+								"NormalList-RankingItemSeriesDto-60943116-22": "success",
+								"NormalList-RankingItemSeriesDto-60927281-23": "success",
+								"NormalList-RankingItemSeriesDto-60943117-24": "success"
+							},
+							"errors": {},
+							"relations": {
+								"layouts": {
+									"static-landing-layout-Ranking-Landing": {
+										"childrenIds": [
+											"static-landing-Ranking-section-Landing-11-0-daily"
+										]
+									}
+								},
+								"sections": {
+									"static-landing-Ranking-section-Landing-11-0-daily": {
+										"parentId": "static-landing-layout-Ranking-Landing",
+										"childrenIds": [
+											"static-landing-Ranking-group-11-0-daily"
+										]
+									}
+								},
+								"groups": {
+									"static-landing-Ranking-group-11-0-daily": {
+										"parentId": "static-landing-Ranking-section-Landing-11-0-daily",
+										"childrenIds": [
+											"NormalList-RankingItemSeriesDto-60847886-0",
+											"NormalList-RankingItemSeriesDto-60947960-1",
+											"NormalList-RankingItemSeriesDto-48526879-2",
+											"NormalList-RankingItemSeriesDto-56325530-3",
+											"NormalList-RankingItemSeriesDto-57948732-4",
+											"NormalList-RankingItemSeriesDto-48306624-5",
+											"NormalList-RankingItemSeriesDto-60707400-6",
+											"NormalList-RankingItemSeriesDto-60944158-7",
+											"NormalList-RankingItemSeriesDto-47050646-8",
+											"NormalList-RankingItemSeriesDto-56598258-9",
+											"NormalList-RankingItemSeriesDto-59958719-10",
+											"NormalList-RankingItemSeriesDto-57668776-11",
+											"NormalList-RankingItemSeriesDto-57850880-12",
+											"NormalList-RankingItemSeriesDto-54418049-13",
+											"NormalList-RankingItemSeriesDto-51513025-14",
+											"NormalList-RankingItemSeriesDto-53230180-15",
+											"NormalList-RankingItemSeriesDto-57508924-16",
+											"NormalList-RankingItemSeriesDto-55806263-17",
+											"NormalList-RankingItemSeriesDto-57352245-18",
+											"NormalList-RankingItemSeriesDto-50490834-19",
+											"NormalList-RankingItemSeriesDto-56505778-20",
+											"NormalList-RankingItemSeriesDto-52347864-21",
+											"NormalList-RankingItemSeriesDto-60943116-22",
+											"NormalList-RankingItemSeriesDto-60927281-23",
+											"NormalList-RankingItemSeriesDto-60943117-24"
+										]
+									}
+								},
+								"nestedGroups": {
+									"static-landing-Ranking-group-11-0-daily": {
+										"parentId": "static-landing-Ranking-section-Landing-11-0-daily",
+										"childrenIds": []
+									}
+								},
+								"items": {
+									"NormalList-RankingItemSeriesDto-60847886-0": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-60947960-1": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-48526879-2": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-56325530-3": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-57948732-4": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-48306624-5": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-60707400-6": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-60944158-7": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-47050646-8": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-56598258-9": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-59958719-10": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-57668776-11": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-57850880-12": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-54418049-13": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-51513025-14": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-53230180-15": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-57508924-16": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-55806263-17": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-57352245-18": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-50490834-19": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-56505778-20": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-52347864-21": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-60943116-22": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-60927281-23": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									},
+									"NormalList-RankingItemSeriesDto-60943117-24": {
+										"parentId": "static-landing-Ranking-group-11-0-daily"
+									}
+								}
+							},
+							"extraInfos": {
+								"layouts": {},
+								"sections": {}
+							},
+							"bannerInfo": {
+								"selectedBanner": {},
+								"subCardType": {},
+								"hasIndicator": {}
+							},
+							"layoutIdAndScreenUidMap": {}
+						},
+						"contentHome": {
+							"noticeNewDot": {},
+							"isEnteredContentHome": {},
+							"fetching": {
+								"about": {},
+								"briefList": {},
+								"productList": {},
+								"notice": {},
+								"overview": {},
+								"recommend": {},
+								"keytalk": {}
+							}
+						},
+						"contentHomeTicketInfo": {
+							"ticketInfo": {
+								"data": {},
+								"page": 0,
+								"fetchStatus": "idle"
+							},
+							"ticketDetail": {
+								"data": {},
+								"fetchStatus": "idle"
+							}
+						},
+						"ticket": {
+							"inProcessProduct": null,
+							"fetching": {
+								"contentMyTicket": {},
+								"contentBuyTicketPage": {},
+								"contentCheckFreeTicket": {}
+							},
+							"receivedFreeTicket": {}
+						},
+						"agreement": {
+							"fetchStatus": "idle",
+							"legalAgent": {
+								"fetchStatus": "idle"
+							},
+							"personalInfo": {
+								"fetchStatus": "idle"
+							}
+						},
+						"user": {
+							"user": null,
+							"cash": null,
+							"appConfig": {},
+							"fetchStatus": {
+								"updateProfileImage": "idle",
+								"updateNickname": "idle",
+								"getUserData": "idle"
+							},
+							"error": {
+								"message": null
+							}
+						},
+						"footer": {
+							"isExposed": false
+						},
+						"cashHistory": {
+							"history": {
+								"fetchStatus": "idle"
+							}
+						},
+						"errors": {
+							"sampleError": {
+								"fetchStatus": "idle"
+							},
+							"errorList": []
+						},
+						"ticketHistory": {
+							"history": {
+								"fetchStatus": "idle"
+							}
+						},
+						"inven": {
+							"recentList": {
+								"invenData": {
+									"fetchStatus": "idle",
+									"page": 0
+								},
+								"editData": {
+									"fetchStatus": "idle",
+									"page": 0
+								},
+								"isSeriesCheckedMap": {},
+								"recommendContentData": {
+									"fetchStatus": "idle"
+								}
+							},
+							"likeList": {
+								"invenData": {
+									"fetchStatus": "idle",
+									"page": 0
+								},
+								"editData": {
+									"fetchStatus": "idle",
+									"page": 0
+								},
+								"isSeriesCheckedMap": {},
+								"recommendContentData": {
+									"fetchStatus": "idle"
+								}
+							},
+							"paidList": {
+								"invenData": {
+									"fetchStatus": "idle",
+									"page": 0
+								},
+								"editData": {
+									"fetchStatus": "idle",
+									"page": 0
+								},
+								"isSeriesCheckedMap": {},
+								"recommendContentData": {
+									"fetchStatus": "idle"
+								}
+							},
+							"searchList": {
+								"searchedData": {
+									"fetchStatus": "idle"
+								},
+								"page": 0
+							},
+							"invenMyInfo": {
+								"fetchStatus": "idle"
+							}
+						},
+						"search": {
+							"main": {
+								"fetchStatus": "idle"
+							},
+							"autoComplete": {
+								"fetchStatus": "idle"
+							},
+							"searchResult": {
+								"keyword": {
+									"fetchStatus": "idle",
+									"page": 0
+								},
+								"themeKeyword": {
+									"fetchStatus": "idle",
+									"page": 0
+								},
+								"keytalk": {
+									"fetchStatus": "idle",
+									"page": 0
+								}
+							},
+							"searchKeyword": "",
+							"openAutoComplete": false,
+							"openPcSearchModal": false,
+							"openSearchDialog": false
+						},
+						"myNews": {
+							"all": {
+								"fetchStatus": "idle",
+								"needRefresh": true
+							},
+							"my": {
+								"fetchStatus": "idle",
+								"needRefresh": true
+							},
+							"up": {
+								"fetchStatus": "idle",
+								"needRefresh": true
+							},
+							"updatedMyNewsIdList": []
+						},
+						"profileMenu": {
+							"updatedMenus": {
+								"0": false,
+								"7": false
+							}
+						},
+						"receiptInfo": {
+							"receiptInfo": {}
+						},
+						"receiptInfoResult": {
+							"receiptInfoResult": {}
+						},
+						"comment": {
+							"commentData": {
+								"fetchStatus": "idle"
+							},
+							"replyCommentData": {},
+							"blockUserList": []
+						},
+						"waitfreePlus": {
+							"provision": {},
+							"categoryList": [],
+							"currentCategoryUid": "10",
+							"data": {},
+							"fetchStatus": "idle",
+							"isUpdated": false
+						},
+						"deviceInfo": {
+							"deviceList": [],
+							"deviceReplaceableCount": 0,
+							"deviceLimitCount": 0
+						},
+						"todayGift": {
+							"promotionList": [],
+							"categoryList": [],
+							"currentCategoryUid": "0",
+							"data": {},
+							"ticketUidMap": {},
+							"fetchStatus": "idle",
+							"isUpdated": false
+						},
+						"welcome": {
+							"welcome": {}
+						},
+						"popup": {
+							"popup": {}
+						},
+						"header": {
+							"title": "",
+							"customTitle": null,
+							"customTiaraObject": null,
+							"mobile": {
+								"isExposed": false,
+								"currentMobileHeaderType": null
+							}
+						},
+						"viewerEnd": {
+							"viewerEnd": {},
+							"myRating": {},
+							"isExposed": false
+						},
+						"talkViewer": {
+							"settings": {
+								"mediaAutoPlay": false,
+								"viewingMode": "tap",
+								"preloadType": "data-converted",
+								"viewerMenuHeight": {
+									"top": 56,
+									"bottom": 81
+								}
+							},
+							"internalSettings": {
+								"autoSpeed": 1,
+								"muted": true,
+								"autoTap": "pause"
+							},
+							"settingMenu": {
+								"exposed": false
+							},
+							"loading": false,
+							"loaded": false,
+							"productInfoMap": {},
+							"sceneInfoMap": {},
+							"talkInfoMap": {},
+							"characterMap": {},
+							"sceneMap": {},
+							"talkGroupMap": {},
+							"talkMap": {},
+							"isPreview": false,
+							"videoPlayType": "web",
+							"isTutorialExposed": false,
+							"needMediaPlayedDirect": false,
+							"isDev": false,
+							"fontLoadStatus": "before_load",
+							"isHandlingSeekBar": false,
+							"isAutoTapTooltipExposed": false
+						},
+						"userAuth": {
+							"authRequestInfo": {
+								"fetchStatus": "idle"
+							}
+						},
+						"viewerInfo": {
+							"isFromPrevProduct": false,
+							"nonstopWatchingInSeries": {},
+							"textViewerPreview": {},
+							"viewerContinued": 0
+						},
+						"singleInfo": {
+							"singlePreview": {},
+							"singleSimple": {}
+						},
+						"videoViewer": {
+							"drmInfo": {},
+							"videoState": {
+								"videoStatus": 0,
+								"isMute": true,
+								"isFullScreen": false,
+								"isLoading": false
+							},
+							"useDrm": false,
+							"fullscreenEnabled": true,
+							"showControlBox": true,
+							"isHovered": false
+						},
+						"viewerMenu": {
+							"isExposed": false
+						},
+						"imageViewer": {
+							"settings": {
+								"readType": "page",
+								"spaceColor": "White",
+								"isTwoPageLayout": true
+							},
+							"viewData": {}
+						},
+						"textViewer": {
+							"settings": {
+								"readType": "page",
+								"theme": "White",
+								"fontFamily": "Batang",
+								"fontSize": 4,
+								"lineGap": 2,
+								"contentMargin": 1,
+								"isTwoPageLayout": true
+							},
+							"viewData": {}
+						},
+						"gotcha": {
+							"gotchaData": {}
+						},
+						"config": {
+							"isIpxMediaMuted": true,
+							"isIpxMediaNetworkUsingAgreed": false
+						}
+					},
+					"meta": {
+						"values": {
+							"notice.noticeData": [
+								"undefined"
+							],
+							"notice.noticeId": [
+								"undefined"
+							],
+							"notice.noticePage": [
+								"undefined"
+							],
+							"pagewebLayout.entities.layouts.static-landing-layout-Ranking-Landing.ageGrade": [
+								"undefined"
+							],
+							"user.user": [
+								"undefined"
+							],
+							"user.cash": [
+								"undefined"
+							],
+							"user.error.message": [
+								"undefined"
+							],
+							"header.customTitle": [
+								"undefined"
+							],
+							"header.customTiaraObject": [
+								"undefined"
+							],
+							"header.mobile.currentMobileHeaderType": [
+								"undefined"
+							]
+						},
+						"referentialEqualities": {
+							"search.searchResult.keyword": [
+								"search.searchResult.themeKeyword",
+								"search.searchResult.keytalk"
+							]
+						}
+					}
+				}
+			},
+			"ecvars": "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",
+			"__N_SSP": true
+		},
+		"page": "/landing/ranking/[[...pathParams]]",
+		"query": {
+			"pathParams": [
+				"11"
+			]
+		},
+		"buildId": "2.4.1-QA.0",
+		"assetPrefix": "https://page.kakaocdn.net/pageweb/2.4.1-QA.0",
+		"isFallback": false,
+		"gssp": true,
+		"customServer": true,
+		"appGip": true,
+		"scriptLoader": []
+	}
+]
